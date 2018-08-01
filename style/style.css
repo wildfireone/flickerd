@@ -1,0 +1,12 @@
+/**
+ * @Author: John Isaacs <john>
+ * @Date:   31-Jul-182018
+ * @Filename: style.css
+ * @Last modified by:   john
+ * @Last modified time: 31-Jul-182018
+ */
+ #map
+ {
+     width: auto;
+     height: 500px;
+ }
